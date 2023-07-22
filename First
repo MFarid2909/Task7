@@ -1,0 +1,13 @@
+namespace Praktika7
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] myNum = {1, 77, 6, 144};
+
+            int arrayLength = myNum.Length;
+            Console.WriteLine(arrayLength);
+        }
+    }
+}
